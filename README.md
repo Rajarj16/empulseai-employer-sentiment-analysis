@@ -190,5 +190,5 @@ Potential future improvements include:
 
 **Santhosh Selvan (GH1037915)**
 
-Master’s Thesis MSc Data Science and AI, Digital Analytics
+ MSc Data Science, AI, Digital Analytics
 

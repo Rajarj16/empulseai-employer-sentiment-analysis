@@ -190,5 +190,5 @@ Potential future improvements include:
 
 **Santhosh Selvan (GH1037915)**
 
- MSc Data Science, AI, Digital Analytics
+ MSc Data Science, AI, Digital Business
 

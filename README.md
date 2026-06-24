@@ -115,7 +115,7 @@ Models are evaluated using:
 
 ## 📂 Dataset Information
 
-**Dataset Source:** Kaggle
+**Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews?resource=download)
 
 **Dataset Type:** Employee Review Dataset
 
